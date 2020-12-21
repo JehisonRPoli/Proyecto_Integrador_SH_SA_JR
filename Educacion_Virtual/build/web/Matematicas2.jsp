@@ -11,7 +11,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <title>Matemáticas</title>
+        <title>Ciencias2</title>
     </head>
     <body>        
         <div class="d-flex">
@@ -20,13 +20,13 @@
                     <div class="card-body">
                         <form action="Controlador?menu=Producto" method="POST">
                             <div container center-h center-v">
-                                <h1 style="color:blue;">Generalidades</h1>
-                                <p>Son fundamentales para el desarrollo intelectual de los niños, les ayuda a ser lógicos, a razonar ordenadamente y a tener una mente preparada para el pensamiento, la crítica y la abstracción.</p>
+                                <h1 style="color:blue;">La Suma</h1>
+                                <p>Los términos de la suma son: sumandos y suma o resultado..</p>
                                 <p>Las matemáticas configuran actitudes y valores en los alumnos pues garantizan una solidez en sus fundamentos, seguridad en los procedimientos y confianza en los resultados obtenidos. Todo esto crea en los niños una disposición consciente y favorable para emprender acciones que conducen a la solución de los problemas a los que se enfrentan cada día.</p>
                             </div>
                             <div class="form-group">
                              <h1 style="color:blue;">Matemáticas Primaria</h1>
-                                <iframe align="middle" width="360" height="215" src="https://www.youtube.com/embed/XfHblrcKcvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+                                <iframe width="360" height="215" src="https://www.youtube.com/embed/oexd_Dfic_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
                             </div>
                             
                         </form>

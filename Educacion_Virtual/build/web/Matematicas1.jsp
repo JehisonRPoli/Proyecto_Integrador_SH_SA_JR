@@ -15,7 +15,6 @@
     </head>
     <body>        
         <div class="d-flex">
-            <div class="col-sm-12">
                 <div class="card">
                     <div class="card-body">
                         <form action="Controlador?menu=Producto" method="POST">
@@ -32,7 +31,7 @@
                         </form>
                         
                     </div>     
-                    <a class="btn btn-warning" href="Controlador?menu=Producto&accion=Editar&id=${em.getId()}">Siguiente</a>                    
+                    <a class="btn btn-warning" href="Matematicas2.jsp">Siguiente</a>                    
                 </div>
             </div>                     
             <!--div class="col-sm-8">

@@ -11,28 +11,26 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <title>Ciencias2</title>
+        <title>Ciencias Naturales</title>
     </head>
     <body>        
         <div class="d-flex">
-            <div class="col-sm-12">
                 <div class="card">
                     <div class="card-body">
                         <form action="Controlador?menu=Producto" method="POST">
                             <div container center-h center-v">
-                                <h1 style="color:blue;">La Suma</h1>
-                                <p>Los términos de la suma son: sumandos y suma o resultado..</p>
-                                <p>Las matemáticas configuran actitudes y valores en los alumnos pues garantizan una solidez en sus fundamentos, seguridad en los procedimientos y confianza en los resultados obtenidos. Todo esto crea en los niños una disposición consciente y favorable para emprender acciones que conducen a la solución de los problemas a los que se enfrentan cada día.</p>
+                                <h1 style="color:blue;">Generalidades</h1>
+                                <p>Enseñar Ciencias Naturales en la escuela primaria nos pone en un lugar de privilegio, sí, pero también de responsabilidad. Tenemos el rol de guiar a nuestros alumnos en el conocimiento de ese mundo nuevo que se abre ante ellos cuando comienzan a hacerse preguntas y a mirar más allá de lo evidente. Será nuestra tarea aprovechar la curiosidad que todos los chicos traen a la escuela como plataforma sobre la cual construir herramientas de pensamiento científico y desarrollar el placer por seguir aprendiendo.</p>
                             </div>
                             <div class="form-group">
-                             <h1 style="color:blue;">Matemáticas Primaria</h1>
-                                <iframe width="360" height="215" src="https://www.youtube.com/embed/oexd_Dfic_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+                             <h1 style="color:blue;">Ciencias Naturales</h1>
+                                <iframe width="360" height="215" src="https://www.youtube.com/embed/nGMOL4gymWM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
                             </div>
                             
                         </form>
                         
                     </div>     
-                    <a class="btn btn-warning" href="Controlador?menu=Producto&accion=Editar&id=${em.getId()}">Siguiente</a>                    
+                    <a class="btn btn-warning" href="Ciencias2.jsp">Siguiente</a>                    
                 </div>
             </div>                     
             <!--div class="col-sm-8">
